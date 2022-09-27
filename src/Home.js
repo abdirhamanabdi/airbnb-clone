@@ -12,12 +12,12 @@ function Home() {
 
             <div className='home__section'>
             <Card
-                src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720"
+                src="https://images.unsplash.com/photo-1620693776767-e929c5724b49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGtlbnlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 title="Online Experiences"
                 description="Unique activities we can do together, led by a world of hosts."
             />
             <Card
-                src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
+                src="https://images.unsplash.com/photo-1533645782036-997947a9d529?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGtlbnlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 title="Unique stays"
                 description="Spaces that are more than just a place to sleep."
             />
@@ -29,22 +29,22 @@ function Home() {
             </div>
             <div className='home__section'>
             <Card
-                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-                title="3 Bedroom Flat in Bournemouth"
+                src="https://images.unsplash.com/photo-1511965939792-2a849ffcb9a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGtlbnlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                title="3 Bedroom villa in Mara"
                 description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
-                price="£130/night"
+                price="13,000/night"
             />
             <Card
-                src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
-                title="Penthouse in London"
-                description="Enjoy the amazing sights of London with this stunning penthouse"
-                price="£350/night"
+                src="https://images.unsplash.com/photo-1611144727915-ef30a08aaeb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGtlbnlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                title="Penthouse in Nairobi"
+                description="Enjoy the amazing sights of Nairobi with this stunning penthouse"
+                price="10,000/night"
             />
             <Card
                 src="https://media.nomadicmatt.com/2018/apartment.jpg"
-                title="1 Bedroom apartment"
+                title="1 Bedroom apartment kisumu"
                 description="Superhost with great amenities and a fabolous shopping complex nearby"
-                price="£70/night"
+                price="10,000 ksh a night"
             />
             </div>
         </div>
